@@ -1,0 +1,20 @@
+{
+    "search_article": {
+        "articulo":"Iphone 11",
+        "departamento":"Electrónicos",
+        "color0":"Azul",
+        "color1":"Blanco",
+        "color2":"Rojo",
+        "color3":"Negro",
+        "color4":"Amarillo",
+        "color5":"Coral",
+        "estado":"",
+        "precio":""                    
+
+    },
+    "check_location":{
+        "btn_location_page":"Comprueba tu ubicación",
+        "Pais":"República Dominicana"
+    }
+
+}
